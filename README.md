@@ -1,8 +1,6 @@
 Complete Documentation
 ----------------------
 
-I used Python 3.7
-
 1. User Registration
 	- This service creates and registers a new user.
 
@@ -159,3 +157,11 @@ A constraint that defines minimum length of password. Defaulted to 8
 #### INVITATION_VALIDITY_DAYS #### 
 
 Validity (in days) of user team invitation email. Defaulted to 7
+
+
+Heroku Demo Online
+------------------
+
+https://infinite-brushlands-68898.herokuapp.com/
+
+
